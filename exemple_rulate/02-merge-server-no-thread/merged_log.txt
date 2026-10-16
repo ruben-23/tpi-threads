@@ -1,0 +1,7 @@
+2023-10-01 08:15:00 Procesul A a pornit
+2023-10-01 08:16:30 Procesul A a citit datele
+2023-10-01 08:18:45 Procesul A a terminat prelucrarea
+2023-10-01 08:20:00 Procesul A a salvat rezultatele
+2023-10-01 08:21:15 Procesul A s-a încheiat2023-10-01 08:15:30 Procesul B a pornit
+2023-10-01 08:17:00 Procesul B a întâmpinat o eroare
+2023-10-01 08:19:30 Procesul B a fost relansat
